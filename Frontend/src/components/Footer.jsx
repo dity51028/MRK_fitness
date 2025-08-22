@@ -3,9 +3,9 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            <h1>Footer</h1>
-        </div>
+        <footer>
+            Designed And Developed By <a href="https://www.linkedin.com/in/dipannita-mondal-07b226249/">Dipannita Mondal</a>
+        </footer>
     )
 }
 
